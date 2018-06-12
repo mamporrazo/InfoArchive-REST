@@ -29,7 +29,7 @@ public class RestfulSample {
 	* @version 1.0
 	* @author EMEA SPT
 	*
-	* @version 1.2
+	* @version 1.0
 	* @author Jesus Gonzalez
 	* @comments: Updated to work with IA16 EP4 and fix some null values in files
 	*/
