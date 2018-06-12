@@ -31,7 +31,7 @@ public class RestfulSample {
 	*
 	* @version 1.2
 	* @author Jesus Gonzalez
-	* @comments: Updated to work with IA16 EP3 and fix some null values in files
+	* @comments: Updated to work with IA16 EP4 and fix some null values in files
 	*/
 
 	public static volatile String accessToken = null;
